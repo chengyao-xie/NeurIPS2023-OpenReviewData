@@ -36,5 +36,3 @@ The word clouds formed by keywords of submissions show the hot topics including 
 </p>
 
 
-
-**All ICLR 2021 Submissions**

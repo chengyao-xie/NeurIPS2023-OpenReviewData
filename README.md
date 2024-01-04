@@ -7,7 +7,7 @@ This data includes all accepted papers and the rejected papers that opted in for
 
 ## Descriptions
 
-This Jupyter Notebook contains the data crawled from ICLR 2021 OpenReview webpages and their visualizations. The list of submissions (sorted by the average ratings) can be found here.
+This Jupyter Notebook contains the data crawled from Neurips 2023 OpenReview webpages and their visualizations. The list of submissions (sorted by the average ratings) can be found here.
 
 
 

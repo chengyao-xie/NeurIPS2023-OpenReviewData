@@ -8,9 +8,12 @@ from chromedriver_py import binary_path
 
 # change driver path according to your configuration
 import sys
+
+print('binary_path is ', binary_path)
+
 sys.path.append(binary_path)
 driver = webdriver.Chrome(binary_path)
-driver.get('https://openreview.net/group?id=NeurIPS.cc/2022/Conference')
+driver.get('https://openreview.net/group?id=NeurIPS.cc/2023/Conference')
 
 cond = EC.presence_of_element_located((By.XPATH, '//*[@id="accepted-papers"]/ul/li[1]/h4/a[1]'))
 WebDriverWait(driver, 60).until(cond)

@@ -36,3 +36,6 @@ The word clouds formed by keywords of submissions show the hot topics including 
 </p>
 
 
+Inspired by https://github.com/shaohua0116/ICLR2020-OpenReviewData and https://github.com/346644054/NeurIPS2022-OpenReviewData
+
+
